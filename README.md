@@ -1,4 +1,4 @@
-# Folder Size Calculator
+# Folder Size Calculator (Only tested in windows)
 
 This is a Python script that calculates the size of all folders in a given directory and generates an HTML report with the results. The folders are sorted by size in descending order, so you can easily identify the largest ones.
 
